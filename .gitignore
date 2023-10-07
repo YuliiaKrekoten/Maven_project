@@ -1,14 +1,14 @@
-.idea/
+ru.netology/.idea/
 target/
 !.mvn/wrapper/maven-wrapper.jar
 !**/src/main/**/target/
 !**/src/test/**/target/
 
 ### IntelliJ IDEA ###
-.idea/modules.xml
-.idea/jarRepositories.xml
-.idea/compiler.xml
-.idea/libraries/
+ru.netology/.idea/modules.xml
+ru.netology/.idea/jarRepositories.xml
+ru.netology/.idea/compiler.xml
+ru.netology/.idea/libraries/
 *.iws
 *.iml
 *.ipr
